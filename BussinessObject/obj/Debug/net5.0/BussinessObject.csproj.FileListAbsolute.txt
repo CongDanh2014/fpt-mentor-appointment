@@ -1,0 +1,15 @@
+E:\project nhom\ProjectMASA\BussinessObject\bin\Debug\net5.0\BussinessObject.deps.json
+E:\project nhom\ProjectMASA\BussinessObject\bin\Debug\net5.0\BussinessObject.runtimeconfig.json
+E:\project nhom\ProjectMASA\BussinessObject\bin\Debug\net5.0\BussinessObject.runtimeconfig.dev.json
+E:\project nhom\ProjectMASA\BussinessObject\bin\Debug\net5.0\BussinessObject.dll
+E:\project nhom\ProjectMASA\BussinessObject\bin\Debug\net5.0\ref\BussinessObject.dll
+E:\project nhom\ProjectMASA\BussinessObject\bin\Debug\net5.0\BussinessObject.pdb
+E:\project nhom\ProjectMASA\BussinessObject\obj\Debug\net5.0\BussinessObject.csproj.AssemblyReference.cache
+E:\project nhom\ProjectMASA\BussinessObject\obj\Debug\net5.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\project nhom\ProjectMASA\BussinessObject\obj\Debug\net5.0\BussinessObject.AssemblyInfoInputs.cache
+E:\project nhom\ProjectMASA\BussinessObject\obj\Debug\net5.0\BussinessObject.AssemblyInfo.cs
+E:\project nhom\ProjectMASA\BussinessObject\obj\Debug\net5.0\BussinessObject.csproj.CoreCompileInputs.cache
+E:\project nhom\ProjectMASA\BussinessObject\obj\Debug\net5.0\BussinessObject.dll
+E:\project nhom\ProjectMASA\BussinessObject\obj\Debug\net5.0\ref\BussinessObject.dll
+E:\project nhom\ProjectMASA\BussinessObject\obj\Debug\net5.0\BussinessObject.pdb
+E:\project nhom\ProjectMASA\BussinessObject\obj\Debug\net5.0\BussinessObject.genruntimeconfig.cache
